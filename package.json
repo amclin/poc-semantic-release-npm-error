@@ -1,0 +1,22 @@
+{
+  "name": "poc-semantic-release-npm-error",
+  "version": "1.0.0",
+  "description": "example project to demo bug in semantic-release/npm",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {
+    "@semantic-release/npm": "=7.0.10",
+    "cpy": "^8.1.2",
+    "cross-spawn": "^7.0.3",
+    "make-dir": "^3.1.0"
+  },
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony McLin",
+  "license": "ISC",
+  "private": true
+}

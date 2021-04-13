@@ -1,0 +1,10 @@
+# 3rd party libraries
+node_modules
+package-lock.json
+
+# IDE/OS files
+.vscode
+.DS_Store
+
+# Compiled build files, dev files, and reports
+/example

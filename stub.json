@@ -1,0 +1,13 @@
+{
+    "name": "poc-semantic-release-npm-error-example-generated",
+    "version": "1.0.0",
+    "description": "example generated project to demo bug in semantic-release/npm",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Anthony McLin",
+    "license": "ISC",
+    "private": true
+}
+  
