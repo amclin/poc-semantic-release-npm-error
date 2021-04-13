@@ -13,9 +13,9 @@
 Still on Node 12/14 with NPM 6.x:
 
 1. Remove the directory created previously:
-  * `rm -rf example`
+   * `rm -rf example`
 1. Update to `@semantic-release/npm` v7.1.0:
-  * `npm install --save-dev @semantic-release/npm@7.1.0`
+   * `npm install --save-dev @semantic-release/npm@7.1.0`
 2. Run `npm start`
 
 ### Resulting error
