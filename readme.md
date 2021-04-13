@@ -1,4 +1,5 @@
 # Instructions
+This is a sample repo to replicate the bug described in https://github.com/semantic-release/npm/issues/357
 
 ## Normal Usage
 1. Use Node 12 or Node 14, with default NPM (6.x) provided by that version of Node
